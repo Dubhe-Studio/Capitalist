@@ -10,7 +10,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{id:'cap:totem_of_dinnerbone',display:{Name:'{\"text\":\"晚餐骨宝典\",\"italic\":false,\"color\":\"gold\",\"bold\":true}'}}"
+                            "tag": "{id:'cap:book_of_dinnerbone',display:{Name:'{\"text\":\"晚餐骨宝典\",\"italic\":false,\"color\":\"gold\",\"bold\":true}'}}"
                         }
                     ]
                 }
