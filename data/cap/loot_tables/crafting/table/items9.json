@@ -13,7 +13,7 @@
 									"condition": "minecraft:location_check",
 									"predicate": {
 										"block": {
-											"nbt": "{Items:[{Slot:1b,id:\"minecraft:gold_block\"},{Slot:2b,id:\"minecraft:gold_block\"},{Slot:3b,id:\"minecraft:gold_block\"},{Slot:10b,id:\"minecraft:gold_block\"},{Slot:11b,id:\"minecraft:emerald\"},{Slot:12b,id:\"minecraft:gold_block\"},{Slot:19b,id:\"minecraft:gold_block\"},{Slot:20b,id:\"minecraft:gold_block\"},{Slot:21b,id:\"minecraft:gold_block\"}]}"
+											"nbt": "{Items:[{Slot:1b,id:\"minecraft:gold_ingot\"},{Slot:2b,id:\"minecraft:gold_ingot\"},{Slot:3b,id:\"minecraft:gold_ingot\"},{Slot:10b,id:\"minecraft:gold_ingot\"},{Slot:11b,id:\"minecraft:emerald\"},{Slot:12b,id:\"minecraft:gold_ingot\"},{Slot:19b,id:\"minecraft:gold_ingot\"},{Slot:20b,id:\"minecraft:gold_ingot\"},{Slot:21b,id:\"minecraft:gold_ingot\"}]}"
 										}
 									}
 								}
@@ -22,7 +22,7 @@
 							"name": "cap:coin"
 						},
 						{
-							"_comment": "晚餐骨图腾",
+							"_comment": "晚餐骨宝典",
 							"conditions": [
 								{
 									"condition": "minecraft:location_check",

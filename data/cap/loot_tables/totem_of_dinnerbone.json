@@ -6,11 +6,11 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "totem_of_undying",
+                    "name": "enchanted_book",
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{id:'cap:totem_of_dinnerbone',display:{Name:'{\"text\":\"晚餐骨图腾\",\"italic\":false,\"color\":\"gold\",\"bold\":true}'}}"
+                            "tag": "{id:'cap:totem_of_dinnerbone',display:{Name:'{\"text\":\"晚餐骨宝典\",\"italic\":false,\"color\":\"gold\",\"bold\":true}'}}"
                         }
                     ]
                 }
