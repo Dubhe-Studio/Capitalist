@@ -6,11 +6,11 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "barrel",
+                    "name": "totem_of_undying",
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{id:'cap:crafting_table',display:{Name:'{\"text\":\"合成器\",\"italic\":false}'}}"
+                            "tag": "{id:'cap:totem_of_dinnerbone',display:{Name:'{\"text\":\"晚餐骨图腾\",\"italic\":false,\"color\":\"gold\",\"bold\":true}'}}"
                         }
                     ]
                 }

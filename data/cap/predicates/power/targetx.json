@@ -1,0 +1,26 @@
+[
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 1,
+		"predicate": {
+			"block": {
+				"block": "minecraft:target"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:inverted",
+		"term": {
+			"condition": "minecraft:location_check",
+			"offsetX": 1,
+			"predicate": {
+				"block": {
+					"block": "minecraft:target",
+					"state": {
+						"power": "0"
+					}
+				}
+			}
+		}
+	}
+]

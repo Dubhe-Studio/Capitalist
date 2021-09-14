@@ -1,0 +1,34 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:chest",
+		"minecraft:trapped_chest",
+
+		{ "id": "stonechest:chest_andesite", "required": false},
+		{ "id": "stonechest:chest_cobblestone", "required": false},
+		{ "id": "stonechest:chest_diorite", "required": false},
+		{ "id": "stonechest:chest_granite", "required": false},
+		{ "id": "stonechest:chest_stone", "required": false},
+	
+		{ "id": "quark:spruce_chest", "required": false},
+		{ "id": "quark:birch_chest", "required": false},
+		{ "id": "quark:jungle_chest", "required": false},
+		{ "id": "quark:acacia_chest", "required": false},
+		{ "id": "quark:dark_oak_chest", "required": false},
+		{ "id": "quark:oak_chest", "required": false},
+		{ "id": "quark:bamboo_chest", "required": false},
+		{ "id": "quark:driftwood_chest", "required": false},
+		{ "id": "quark:poise_chest", "required": false},
+		{ "id": "quark:willow_chest", "required": false},
+		{ "id": "quark:wisteria_chest", "required": false},
+		{ "id": "quark:nether_brick_chest", "required": false},
+		{ "id": "quark:purpur_chest", "required": false},
+		{ "id": "quark:prismarine_chest", "required": false},
+		{ "id": "quark:mushroom_chest", "required": false},
+		{ "id": "quark:crimson_chest", "required": false},
+		{ "id": "quark:warped_chest", "required": false},
+		{ "id": "quark:wisteria_chest", "required": false},
+		{ "id": "quark:wisteria_chest", "required": false},
+		{ "id": "quark:wisteria_chest", "required": false}
+	]
+}

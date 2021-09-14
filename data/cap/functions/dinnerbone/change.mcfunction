@@ -1,5 +1,3 @@
-#function cap:dinnerbone/clear
-function cap:dinnerbone/clear16
 #1
 data modify entity @s Offers.Recipes.[0].buyB set from entity @s Offers.Recipes.[0].buy
 data modify entity @s Offers.Recipes.[0].buy set from entity @s Offers.Recipes.[0].sell

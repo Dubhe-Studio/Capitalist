@@ -1,0 +1,23 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"_comment": "金币",
+			"condition": "location_check",
+			"predicate": {
+				"block": {
+					"nbt": "{Items:[{Slot:1b,id:\"minecraft:gold_block\"},{Slot:2b,id:\"minecraft:gold_block\"},{Slot:3b,id:\"minecraft:gold_block\"},{Slot:10b,id:\"minecraft:gold_block\"},{Slot:11b,id:\"minecraft:emerald\"},{Slot:12b,id:\"minecraft:gold_block\"},{Slot:19b,id:\"minecraft:gold_block\"},{Slot:20b,id:\"minecraft:gold_block\"},{Slot:21b,id:\"minecraft:gold_block\"}]}"
+				}
+			}
+		},
+		{
+			"_comment": "晚餐骨图腾",
+			"condition": "location_check",
+			"predicate": {
+				"block": {
+					"nbt": "{Items:[{Slot:1b,id:\"minecraft:gold_ingot\"},{Slot:2b,id:\"minecraft:name_tag\",tag:{RepairCost:0,display:{Name:'{\"text\":\"Dinnerbone\"}'}}},{Slot:3b,id:\"minecraft:iron_ingot\"},{Slot:10b,id:\"minecraft:emerald_block\"},{Slot:11b,id:\"minecraft:emerald_block\"},{Slot:12b,id:\"minecraft:emerald_block\"},{Slot:19b,id:\"minecraft:netherite_scrap\"},{Slot:20b,id:\"minecraft:emerald_block\"},{Slot:21b,id:\"minecraft:diamond\"}]}"
+				}
+			}
+		}
+	]
+}
