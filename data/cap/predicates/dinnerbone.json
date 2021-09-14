@@ -1,0 +1,8 @@
+{
+    "condition": "entity_properties",
+    "entity": "this",
+    "predicate": {
+        "type":"item_frame",
+        "nbt": "{Item: {id: \"minecraft:nether_star\", Count: 1b},Fixed:1b,Invisible:1b}"
+    }
+}

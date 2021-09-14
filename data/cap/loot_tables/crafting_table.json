@@ -1,0 +1,20 @@
+{
+    "type": "entity",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "barrel",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{id:'cap:coin',display:{Name:'{\"text\":\"合成器\",\"italic\":false}'}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

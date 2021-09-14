@@ -1,0 +1,7 @@
+execute as @a at @s anchored eyes run fill ^ ^ ^1 ~ ~ ~ command_block{Command:"function cap:crafting/table/set",auto:1b} replace barrel{CustomName:'{"italic":false,"text":"合成器"}'}
+execute as @a at @s anchored eyes run fill ^ ^ ^2 ~ ~ ~ command_block{Command:"function cap:crafting/table/set",auto:1b} replace barrel{CustomName:'{"italic":false,"text":"合成器"}'}
+execute as @a at @s anchored eyes run fill ^ ^ ^3 ~ ~ ~ command_block{Command:"function cap:crafting/table/set",auto:1b} replace barrel{CustomName:'{"italic":false,"text":"合成器"}'}
+execute as @a at @s anchored eyes run fill ^ ^ ^4 ~ ~ ~ command_block{Command:"function cap:crafting/table/set",auto:1b} replace barrel{CustomName:'{"italic":false,"text":"合成器"}'}
+execute as @a at @s anchored eyes run fill ^ ^ ^5 ~ ~ ~ command_block{Command:"function cap:crafting/table/set",auto:1b} replace barrel{CustomName:'{"italic":false,"text":"合成器"}'}
+execute as @a at @s anchored eyes run fill ^ ^ ^6 ~ ~ ~ command_block{Command:"function cap:crafting/table/set",auto:1b} replace barrel{CustomName:'{"italic":false,"text":"合成器"}'}
+execute as @a at @s anchored eyes run fill ^ ^ ^7 ~ ~ ~ command_block{Command:"function cap:crafting/table/set",auto:1b} replace barrel{CustomName:'{"italic":false,"text":"合成器"}'}

@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:crafting_table",Count:1b}}] at @s store success score @s cap_value run execute as @e[type=item,nbt={Item:{id:"minecraft:emerald",Count:1b}},distance=..1,limit=1] at @s store success score @s cap_value run loot spawn ~ ~ ~ loot cap:crafting_table

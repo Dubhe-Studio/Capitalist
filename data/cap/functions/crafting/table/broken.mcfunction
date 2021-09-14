@@ -1,0 +1,1 @@
+execute as @e[tag=cap_crafting] at @s unless block ~ ~ ~ barrel run function cap:crafting/table/broken0
