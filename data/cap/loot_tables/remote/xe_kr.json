@@ -1,0 +1,20 @@
+{
+    "type": "entity",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "carrot_on_a_stick",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{capTools:1b,id:'cap:remote_xe_kr',display:{Name:'{\"text\":\"叉剋遥控器\",\"italic\":false,\"bold\":true}'}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

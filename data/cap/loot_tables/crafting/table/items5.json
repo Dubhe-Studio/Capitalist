@@ -1,0 +1,29 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:alternatives",
+					"children": [
+						{
+							"_comment": "黑山大叔遥控器",
+							"conditions": [
+								{
+									"condition": "minecraft:location_check",
+									"predicate": {
+										"block": {
+											"nbt": "{Items:[{Slot:2b,id:\"minecraft:emerald\"},{Slot:10b,id:\"minecraft:emerald\"},{Slot:11b,id:\"minecraft:diamond\"},{Slot:12b,id:\"minecraft:emerald\"},{Slot:20b,id:\"minecraft:emerald\"}]}"
+										}
+									}
+								}
+							],
+							"type": "minecraft:loot_table",
+							"name": "cap:crystal"
+						}
+					]
+				}
+			]
+		}
+	]
+}

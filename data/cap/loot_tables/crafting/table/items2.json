@@ -1,0 +1,59 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:alternatives",
+					"children": [
+						{
+							"_comment": "黑山大叔遥控器",
+							"conditions": [
+								{
+									"condition": "minecraft:location_check",
+									"predicate": {
+										"block": {
+											"nbt": "{Items:[{Slot:1b,id:\"minecraft:carrot_on_a_stick\"},{Slot:10b,id:\"minecraft:name_tag\",tag:{RepairCost:0,display:{Name:'{\"text\":\"hsds\"}'}}}]}"
+										}
+									}
+								}
+							],
+							"type": "minecraft:loot_table",
+							"name": "cap:remote/hsds"
+						},
+						{
+							"_comment": "叉剋遥控器",
+							"conditions": [
+								{
+									"condition": "minecraft:location_check",
+									"predicate": {
+										"block": {
+											"nbt": "{Items:[{Slot:1b,id:\"minecraft:carrot_on_a_stick\"},{Slot:10b,id:\"minecraft:name_tag\",tag:{RepairCost:0,display:{Name:'{\"text\":\"Xe_Kr\"}'}}}]}"
+										}
+									}
+								}
+							],
+							"type": "minecraft:loot_table",
+							"name": "cap:remote/xe_kr"
+						},
+						{
+							"_comment": "古镇天遥控器",
+							"conditions": [
+								{
+									"condition": "minecraft:location_check",
+									"predicate": {
+										"block": {
+											"nbt": "{Items:[{Slot:1b,id:\"minecraft:carrot_on_a_stick\"},{Slot:10b,id:\"minecraft:name_tag\",tag:{RepairCost:0,display:{Name:'{\"text\":\"Gugle\"}'}}}]}"
+										}
+									}
+								}
+							],
+							"type": "minecraft:loot_table",
+							"name": "cap:remote/gugle"
+						}
+					]
+				}
+			]
+		}
+	]
+}

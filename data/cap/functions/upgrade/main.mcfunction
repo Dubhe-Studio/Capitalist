@@ -1,0 +1,1 @@
+execute as @e[nbt={Item:{tag:{id:"cap:crystal"}}}] at @s if entity @e[type=villager,limit=1,distance=..1,tag=!upgrade2] run function cap:upgrade/add
